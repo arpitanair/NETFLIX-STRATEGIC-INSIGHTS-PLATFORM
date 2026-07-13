@@ -7,12 +7,9 @@
 An interactive analytics dashboard built with Python, Pandas, Plotly & Streamlit
 
 </div>
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
 
-## 📌 Overview
+
+##  Overview
 
 Netflix Insight Studio is an interactive data analytics dashboard built to explore and understand Netflix's global content library.
 
@@ -30,41 +27,41 @@ It explores:
 
 ---
 
-# ✨ Features
+#  Features
 
 
-## 📊 Executive Dashboard
+##  Executive Dashboard
 
 - Total Netflix titles analyzed
 - Movie and TV Show distribution
 - Global content coverage
 
 
-## 🎭 Genre Intelligence
+##  Genre Intelligence
 
 - Identifies popular content categories
 - Explores Netflix's genre landscape
 
 
-## 🌎 Global Content Analysis
+##  Global Content Analysis
 
 - Analyzes country-wise content contribution
 - Understands Netflix's international reach
 
 
-## 📈 Content Growth Analysis
+## Content Growth Analysis
 
 - Tracks Netflix content evolution over years
 - Identifies expansion trends
 
 
-## ⭐ Rating Analysis
+##  Rating Analysis
 
 - Examines audience targeting through content ratings
 - Understands maturity-level distribution
 
 
-## 🔍 Netflix Content Explorer
+##  Netflix Content Explorer
 
 - Search and explore individual Netflix titles
 - View title details instantly
@@ -72,7 +69,7 @@ It explores:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 
 | Technology | Purpose |
@@ -86,7 +83,7 @@ It explores:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 
 ```
@@ -104,7 +101,7 @@ Netflix-Insight-Studio
 
 ---
 
-# 🚀 How to Run the Project
+#  How to Run the Project
 
 
 ### 1. Clone the repository
@@ -128,19 +125,17 @@ streamlit run app.py
 ```
 
 
----
+--
 
 # 📊 Dashboard Preview
 
-# 📊 Dashboard Preview
 
-
-## 🎬 Main Dashboard
+##  Main Dashboard
 
 ![Dashboard Home](screenshots/dashboard_home.png)
 
 
-## 📈 Analytics Dashboard
+##  Analytics Dashboard
 
 ![Analytics](screenshots/analytics1.png)
 ![Analytics](screenshots/analytics2.png)
@@ -153,7 +148,7 @@ streamlit run app.py
 ![Analytics](screenshots/analytics9.png)
 
 
-## 🔍 Content Explorer
+##  Content Explorer
 
 ![Content Explorer](screenshots/content_explorer1.png)
 ![Content Explorer](screenshots/content_explorer2.png)
@@ -161,7 +156,7 @@ streamlit run app.py
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 
 Some observations discovered through the analysis:
 
@@ -174,7 +169,7 @@ Some observations discovered through the analysis:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 Future enhancements planned:
 
@@ -186,7 +181,7 @@ Future enhancements planned:
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 ## Arpita Nair
 
@@ -198,4 +193,4 @@ Python • Pandas • Data Visualization • Streamlit • Data Analytics
 
 ---
 
-⭐ If you found this project interesting, feel free to explore it!
+ If you found this project interesting, feel free to explore it!
