@@ -1,7 +1,16 @@
-# 🎬 Netflix Insight Studio
+<div align="center">
 
-## Decoding the DNA of Netflix's Global Content Library 🌎
+# 🎬 Netflix Strategic Insights Platform
 
+### Decoding the DNA of Netflix's Global Content Library 🌎
+
+An interactive analytics dashboard built with Python, Pandas, Plotly & Streamlit
+
+</div>
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-purple)
 
 ## 📌 Overview
 
