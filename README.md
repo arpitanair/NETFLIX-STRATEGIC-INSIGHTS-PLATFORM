@@ -123,7 +123,31 @@ streamlit run app.py
 
 # 📊 Dashboard Preview
 
-(Add screenshots here after uploading them)
+# 📊 Dashboard Preview
+
+
+## 🎬 Main Dashboard
+
+![Dashboard Home](screenshots/dashboard_home.png)
+
+
+## 📈 Analytics Dashboard
+
+![Analytics](screenshots/analytics1.png)
+![Analytics](screenshots/analytics2.png)
+![Analytics](screenshots/analytics3.png)
+![Analytics](screenshots/analytics4.png)
+![Analytics](screenshots/analytics5.png)
+![Analytics](screenshots/analytics6.png)
+![Analytics](screenshots/analytics7.png)
+![Analytics](screenshots/analytics8.png)
+![Analytics](screenshots/analytics9.png)
+
+
+## 🔍 Content Explorer
+
+![Content Explorer](screenshots/content_explorer1.png)
+![Content Explorer](screenshots/content_explorer2.png)
 
 
 ---
