@@ -1,0 +1,140 @@
+/* ============================= */
+/* NETFLIX CONTENT INTELLIGENCE */
+/* Premium Theme */
+/* ============================= */
+
+html, body, [class*="css"]{
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* Background */
+
+.stApp{
+    background-color:#0E1117;
+}
+
+/* Main Container */
+
+.block-container{
+    padding-top:1rem;
+    padding-left:3rem;
+    padding-right:3rem;
+    padding-bottom:2rem;
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"]{
+    background:#161B22;
+    border-right:2px solid #E50914;
+}
+
+/* Titles */
+
+h1,h2,h3,h4,h5{
+
+    color:white;
+
+    font-weight:700;
+
+}
+
+p{
+
+    color:#B5B5B5;
+
+}
+
+/* KPI Cards */
+
+.metric-card{
+
+    background:#161B22;
+
+    border-radius:20px;
+
+    padding:20px;
+
+    border-left:6px solid #E50914;
+
+    box-shadow:0px 8px 25px rgba(0,0,0,0.45);
+
+    transition:0.3s;
+
+}
+
+.metric-card:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0px 12px 30px rgba(229,9,20,0.35);
+
+}
+
+/* Chart Containers */
+
+.chart-card{
+
+    background:#161B22;
+
+    padding:20px;
+
+    border-radius:20px;
+
+    margin-top:20px;
+
+    margin-bottom:20px;
+
+    box-shadow:0px 8px 20px rgba(0,0,0,0.40);
+
+}
+
+/* Buttons */
+
+.stButton>button{
+
+    background:#E50914;
+
+    color:white;
+
+    border:none;
+
+    border-radius:12px;
+
+    font-weight:bold;
+
+}
+
+.stButton>button:hover{
+
+    background:#ff2d3f;
+
+}
+
+/* Metrics */
+
+[data-testid="metric-container"]{
+
+    background:#161B22;
+
+    border-radius:18px;
+
+    border-left:5px solid #E50914;
+
+    padding:15px;
+
+}
+
+/* Footer */
+
+.footer{
+
+    text-align:center;
+
+    color:gray;
+
+    margin-top:60px;
+
+    font-size:14px;
+
+}
