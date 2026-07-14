@@ -10,8 +10,9 @@ An interactive analytics dashboard built with Python, Pandas, Plotly & Streamlit
 
 
 ##  Overview
+Interactive business intelligence dashboard built with Python, Pandas, Plotly, and Streamlit to uncover strategic insights from Netflix's global content library.
 
-Netflix Insight Studio is an interactive data analytics dashboard built to explore and understand Netflix's global content library.
+
 
 The project transforms raw Netflix title data into meaningful insights using data analysis and visualization techniques.
 
